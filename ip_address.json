@@ -1,0 +1,52 @@
+[
+            {
+                "id":1,
+                "serial":2,
+                "address":"192.168.1.107:554",
+                "type":"rtsp",
+                "status": "Inactive"
+            },
+            {
+                "id":2,
+                "serial":1,
+                "address":"192.168.1.138:80",
+                "type":"rtsp",
+                "status": "Inactive"
+            },
+            {
+                "id":3,
+                "serial":3,
+                "address":"192.168.1.138:80",
+                "type":"jpeg",
+                "status": "Active"
+            },
+            {
+                "id":4,
+                "serial":7,
+                "address":"192.168.0.50:554sdfsdfsdfsdfsdfsd;alskjfl;kja;lf",
+                "type":"rtsp",
+                "status": "Inactive"
+            },
+            {
+                "id":5,
+                "serial":5,
+                "address":"192.168.1.138:80",
+                "type":"rtsp",
+                "status": "Active"
+            },
+            {
+                "id":6,
+                "serial":4,
+                "address":"192.168.1.243:554",
+                "type":"rtsp",
+                "status": "Inactive"
+            },
+            {
+                "id":7,
+                "serial":7,
+                "address":"192.168.1.107:554",
+                "type":"rtsp",
+                "status": "Inactive"
+            }
+    
+]
